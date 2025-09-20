@@ -18,4 +18,5 @@ Optimality is reached when the generator produces an output that the disciminato
 ### Loss Function for GANs
 <img width="739" height="49" alt="image" src="https://github.com/user-attachments/assets/9ad09c4b-eed9-49f3-9a02-5364642f5bbe" />
 <br>
+<br>
 The first part of the above equation reflects the log probability of the discriminator predicting that the input sample is genuine and the second half reflects the probability of the Discriminator predicting that the Generator's output is not genuine.
